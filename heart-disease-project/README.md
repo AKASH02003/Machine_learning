@@ -8,7 +8,7 @@ model selection, training and evaluation.
 ## Dataset
 Dataset
 The dataset contains information about various medical attributes such as age, sex, cholesterol levels, blood pressure, 
-and other factors that could potentially influence the likelihood of heart disease. It consists of [number of instances] instances and [number of features] features.
+and other 10 factors that could potentially influence the likelihood of heart disease. 
 
 ## Usage
 1. Data Preprocessing: Clean the dataset by handling missing values, encoding categorical variables, and scaling numerical features.
@@ -17,3 +17,10 @@ and other factors that could potentially influence the likelihood of heart disea
 4. Model Selection: Choose suitable machine learning algorithms for the task. Train and evaluate multiple models to identify the best-performing one.
 5. Model Training: Train the selected model on the preprocessed dataset.
 6. Model Evaluation: Evaluate the trained model using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+
+
+Contributors
+- Akash M
+
+### Licence
+[MIT]
